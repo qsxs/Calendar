@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "applicationCommit": "fe48ee6140d9224adf56b4b09efcfdc468ae8aa0",
+  "files": [
+    {
+      "path": "compose-multiplatform/library/src/ohosMain/kotlin/com/kizitonwose/calendar/core/Extensions.ohos.kt",
+      "size": 2015,
+      "sha256": "04ea84b367ddd937bca5391c220209ba2f89367f64bda8049caafd6db1e08888"
+    },
+    {
+      "path": "compose-multiplatform/library/src/ohosMain/kotlin/com/kizitonwose/calendar/data/Utils.ohos.kt",
+      "size": 569,
+      "sha256": "c7dba7884070b816b00ec234de4023ee06e211cbb0157914d92d17b04c98500d"
+    },
+    {
+      "path": "compose-multiplatform/library/src/nativeInterop/cinterop/calendar_icu.def",
+      "size": 235,
+      "sha256": "d0ac6312b8781c35103e649192b7b1dea53415a44d795cfc0a401349ad2815ac"
+    }
+  ]
+}

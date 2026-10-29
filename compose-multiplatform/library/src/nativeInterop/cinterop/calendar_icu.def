@@ -1,0 +1,5 @@
+package = com.kizitonwose.calendar.icu
+headers = unicode/ucal.h unicode/uloc.h unicode/utypes.h
+headerFilter = unicode/ucal.h unicode/uloc.h unicode/utypes.h
+strictEnums = UErrorCode UCalendarType UCalendarAttribute
+linkerOpts = -licu

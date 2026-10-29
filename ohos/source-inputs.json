@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "sources": {
+    "path": "vendor/compose-multiplatform-2.10.1-sources.jar",
+    "size": 56351,
+    "sha256": "e13bcd699c499d3a58bc21cb61bba35b159dcac00518fb8279d346793b10e84a"
+  },
+  "gmm": {
+    "path": "vendor/compose-multiplatform-2.10.1.module",
+    "size": 20611,
+    "sha256": "c73a77ef414be3376ef62bbd4e8932cf80052546a6a6db93fdbf85b3e7e4a7b6"
+  },
+  "pom": {
+    "path": "vendor/compose-multiplatform-2.10.1.pom",
+    "size": 3425,
+    "sha256": "c1ff6d74828dea3c85ce83523b53f323a55c9639eaaf36b21cb2af85f9ec4b37"
+  },
+  "members": [
+    {
+      "member": "META-INF/MANIFEST.MF",
+      "size": 25,
+      "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff",
+      "compile": false
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/Calendar.kt",
+      "size": 34711,
+      "sha256": "69d555674bb7d7972217903d4fa1e6a4f45b4b55bfdb8156e6589b8c80acc995",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/CalendarDefaults.kt",
+      "size": 2262,
+      "sha256": "6f55463ec33a4c214073ac15f37f5a9a65f9b2872690dbe92bbc71a279e7d5ed",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/CalendarInfo.kt",
+      "size": 344,
+      "sha256": "5e67c272c772fe9bc0ae363af178e0a302692718b4c28173c13e3502a194bbe4",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/CalendarLayoutInfo.kt",
+      "size": 1157,
+      "sha256": "130dfa4680f115d0c1843803de57bf58a30401137ae047f2d641db78b2bec882",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/CalendarMonths.kt",
+      "size": 7190,
+      "sha256": "19db26fd18576371498da9b2ae8dc56e404c468746abcc614f9163995d203345",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/CalendarState.kt",
+      "size": 15482,
+      "sha256": "45e69403fd7ed90f98e33002e09f01069aaff4e6ee5dc631dcdc3eedd0794df7",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/ContentHeightMode.kt",
+      "size": 994,
+      "sha256": "a63fc8385f5c3ecb6c0f79394a23ed16ea156aa782566b52051c12fe3111fc0c",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/ItemPlacementInfo.kt",
+      "size": 1832,
+      "sha256": "078f066967a363439fbe8882cb45ef1083bb82452b2763a6111d25b8755f8abd",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/heatmapcalendar/HeatMapCalendar.kt",
+      "size": 3433,
+      "sha256": "b248a558691e55542251b2a618e6dbcca24604fa1276f9043d5937b4e6d6e5b9",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/heatmapcalendar/HeatMapCalendarState.kt",
+      "size": 11423,
+      "sha256": "4c7efc182cf35fa131ec406a23a5c3b1abe9ca496aa708d077d4883648f30af2",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/heatmapcalendar/HeatMapWeek.kt",
+      "size": 697,
+      "sha256": "c16af19baa035b5f853f5ab670ee4279289c3d3874831754af288cc5c7938b6b",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/heatmapcalendar/HeatMapWeekHeaderPosition.kt",
+      "size": 450,
+      "sha256": "0df1dc9c10546b2ef6b33380805a6a88e9c3ddeaa5603ed670cf37c2f408f3c9",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/weekcalendar/WeekCalendar.kt",
+      "size": 4685,
+      "sha256": "48eaa295d15b367241418d18812688c68d8cb5c8fb945d28d734d7756c0b27bb",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/weekcalendar/WeekCalendarLayoutInfo.kt",
+      "size": 1193,
+      "sha256": "642b0ab6265d648c04eae4ad4d04e0c1dafa8b24e510af6d609ef2e3a7f1976e",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/weekcalendar/WeekCalendarState.kt",
+      "size": 15412,
+      "sha256": "82b333107dede9df81f2ddcd35375a6740ff8868e23c3665c96c3f927166d657",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/yearcalendar/YearCalendarLayoutInfo.kt",
+      "size": 1216,
+      "sha256": "561b4ff4c62ef478abdf81ab773e3841324ffd54e6784923d9b8fffffc8d24da",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/yearcalendar/YearCalendarMonths.kt",
+      "size": 13771,
+      "sha256": "6405734ea1ba4f007355362b976fa1624deafc8de0f3573d6ab0c91359f0807f",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/yearcalendar/YearCalendarState.kt",
+      "size": 19610,
+      "sha256": "c5c712cbf5534182a784a31c6651c7489a6be2a06ea162d33d06c82669404b07",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/yearcalendar/YearContentHeightMode.kt",
+      "size": 1399,
+      "sha256": "01c14fe91306b81ce770902177cb14024bcdd7cc161bf07d6fc67be0cf3fb1d6",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/compose/yearcalendar/YearItemPlacementInfo.kt",
+      "size": 3093,
+      "sha256": "5f251fdea1df2436fce2daaddc07fadb8163b68cb4489324b4025baf22329ed5",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/CalendarDay.kt",
+      "size": 342,
+      "sha256": "f46cc9a725dea9edef5e63493ecc1d79638d3fee7186b86355b3db093bb14efb",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/CalendarMonth.kt",
+      "size": 1306,
+      "sha256": "32102fd7a5e18d4c08a04ac9d41c4ec716abc686f23c3198cfac1257b4f15e5e",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/CalendarYear.kt",
+      "size": 1147,
+      "sha256": "c4509051d60399f285d8525e1f5efb072212f150c3b3134ed644894919f9ac83",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/DayPosition.kt",
+      "size": 676,
+      "sha256": "362867301ab8975abc6d6e34ff51a4d234274fd86438eb18f3fc46c15567a284",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/ExperimentalCalendarApi.kt",
+      "size": 303,
+      "sha256": "6b2a30e3e9db9d07a5dcc03bce68f0af58ddc52331b6fa23a44acde7b887af8c",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/Extensions.kt",
+      "size": 6869,
+      "sha256": "a813ff6c9262728c78deb57aac7a278f94d728b48fdd956c0fc83f514c7128a0",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/OutDateStyle.kt",
+      "size": 611,
+      "sha256": "73016bc08093491eb3658673b616d700041fe09e3c45a382be32a8a4e55c5de7",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/Week.kt",
+      "size": 953,
+      "sha256": "0d1329fa19f406628c147e77a7236026d27263d01f7c0f8a20c591505be24674",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/WeekDay.kt",
+      "size": 351,
+      "sha256": "26fd45339fc6bb88091285c1c1bb1200f38d91b9c5f6a525e3932ce52790f70f",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/WeekDayPosition.kt",
+      "size": 659,
+      "sha256": "dcfd8f0d12dd0c39340c748fb56ca4a2989ee342948e99d02188c09d3b2bc76d",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/Year.kt",
+      "size": 6502,
+      "sha256": "576e8a37e4cd9d731644848a4d1d1b14b8de73784db15d32098d5e0abcee7909",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/deprecated/Extensions.kt",
+      "size": 1123,
+      "sha256": "754f576ec1eb9a8201f0615e329a5abb745b024cc3b72d8e71a03ffec4f68e70",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/format/Format.kt",
+      "size": 926,
+      "sha256": "2277c74c9d0fe858a49fc755a81f8442db530f0ae49840f9e30a2a41c8676ac3",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/core/serializers/YearSerializers.kt",
+      "size": 2775,
+      "sha256": "38be74b38044ef9f1af5146b7cb8c815e6496763b287b4fc36ef0212948ee526",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/data/DataStore.kt",
+      "size": 567,
+      "sha256": "3194fbcf0239a52425fb3911653e6a493b60c183b342d290586fcf5d43b99fc2",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/data/Extensions.kt",
+      "size": 1195,
+      "sha256": "64ae0efe2841d08977e9d3283d5a435b3c830cecdbd750fd0f2867dc4eb53b2d",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/data/MonthData.kt",
+      "size": 3196,
+      "sha256": "35357996c9e292e9c74dd492f4e368052d3d1f4bb02b915359526be0c8c78b9b",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/data/Utils.kt",
+      "size": 278,
+      "sha256": "46c8a1bbb90e6d332d6cfe7aa2713cee83f0a41adf2ca06b936668581ccecb36",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/data/VisibleItemState.kt",
+      "size": 215,
+      "sha256": "dfbb8f5f4643360121ea40e4aefd2d139979089f6487487fe5bf479249bdf920",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/data/WeekData.kt",
+      "size": 2297,
+      "sha256": "e87540b4cdb28935a5356b2f57e4f3d4422393cdae49e4d92c76231fff6ad0e6",
+      "compile": true
+    },
+    {
+      "member": "commonMain/com/kizitonwose/calendar/data/YearData.kt",
+      "size": 1190,
+      "sha256": "b4b4f2590d77756514992eb2a157e947cee3181cc9073f26dad74ba85d44236e",
+      "compile": true
+    },
+    {
+      "member": "commonMain/calendar/compose_multiplatform/library/generated/resources/Res.kt",
+      "size": 1488,
+      "sha256": "d5ef916da79dbf07e33767c4813a6ce35f1831d8318fb6104dafe138525b67c1",
+      "compile": false
+    },
+    {
+      "member": "commonMain/calendar/compose_multiplatform/library/generated/resources/ExpectResourceCollectors.kt",
+      "size": 787,
+      "sha256": "3a46d71f76a2805f5b171bf438427ff449ae10a845eb879898a331150cfe1936",
+      "compile": false
+    },
+    {
+      "member": "iosMain/com/kizitonwose/calendar/core/Extensions.ios.kt",
+      "size": 761,
+      "sha256": "681494b7eca009b109a07c8748af2ba4202a0d847855bf4019b1dd7c0cda5e7b",
+      "compile": false
+    },
+    {
+      "member": "iosMain/com/kizitonwose/calendar/data/Utils.ios.kt",
+      "size": 158,
+      "sha256": "0cd855796961ca182db3e4c1e49f60d7df8807d8011eecc15cd84ae74de5b4a7",
+      "compile": false
+    },
+    {
+      "member": "jvmMain/com/kizitonwose/calendar/core/Converters.kt",
+      "size": 216,
+      "sha256": "16011d9fbc113e7202765d87d35203d19aae9581bdd6d837e983e67e2db36d3d",
+      "compile": false
+    },
+    {
+      "member": "jvmMain/com/kizitonwose/calendar/core/Extensions.jvm.kt",
+      "size": 477,
+      "sha256": "749d5ce181901993baabadde8a1cf3b5bc7e82dc673dbdd3e51e8ba18fb95208",
+      "compile": false
+    },
+    {
+      "member": "webMain/com/kizitonwose/calendar/core/Extensions.js.kt",
+      "size": 514,
+      "sha256": "a8739acbf5431136f86f5dbc6a4c981a301e7fed419c82b61cc76f29a511fb18",
+      "compile": false
+    },
+    {
+      "member": "webMain/com/kizitonwose/calendar/core/FirstDayFromMap.kt",
+      "size": 3462,
+      "sha256": "a3a8eb5d5ec2655fd1960c5986557ffb854f71b759c897ad71357ab0565160dc",
+      "compile": false
+    },
+    {
+      "member": "webMain/com/kizitonwose/calendar/core/FirstDayFromTag.kt",
+      "size": 103,
+      "sha256": "95cfe3baa5bcffeb4f7e27d3dcc26ef1b4cfca97fac1961718ea885329b2c815",
+      "compile": false
+    }
+  ],
+  "compiledCommonCount": 41,
+  "oldGeneratedPolicy": "Preserved in original JAR and expanded sources; excluded from compile, regenerated by CPF Compose resources plugin"
+}

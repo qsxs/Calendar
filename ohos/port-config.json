@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "kotlin": "2.4.20-0.1.0-08",
+  "compose": "1.12.0-0.1.0-11",
+  "gradle": "9.5.0",
+  "metadataPolicy": "STANDARD_KGP_FIRST_NO_PREEMPTIVE_FALLBACK",
+  "modules": {
+    "compose-multiplatform": {
+      "group": "io.github.qsxs.cpf.calendar",
+      "upstreamVersion": "2.10.1",
+      "sourceCount": 41,
+      "license": "MIT License",
+      "licenseUrl": "https://opensource.org/license/mit/",
+      "repository": "https://github.com/kizitonwose/Calendar",
+      "licenseSha256": "942b3872c6621a2ff8a2730044ec02093d350aff5e5db13fe8811ca67aa0aae9"
+    }
+  },
+  "annotationMapping": {
+    "id": "P5-CALENDAR-AUTO-01",
+    "from": "androidx.annotation:annotation:1.9.1",
+    "to": "org.jetbrains.compose.annotation-internal:annotation:1.9.1-0.1.0-11",
+    "scope": "implementation",
+    "reason": "Same required androidx.annotation.IntRange FQN/Long constructor defaults/retention/targets verified against exact upstream source and CPF08 dual-ABI klib metadata; OHOS-only declaration mapping"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "candidate": {
+    "url": "https://maven.eazytec-cloud.com/nexus/repository/file-storage/sysroot-ohos-26.0.0.38-01.tar.gz",
+    "size": 12199536,
+    "sha256": "8f37196b1c1aaadc5684a49e2776db6320747403902d980c8c678a8156a3a619",
+    "archiveRoot": "sysroot-ohos-26.0.0.38-01",
+    "files": [
+      {
+        "path": "usr/lib/aarch64-linux-ohos/libicu.so",
+        "size": 31112,
+        "sha256": "3d6c6c4f2ff7bc866e0388ba27e7f890bf4f6f973f28ee0d766b6e9298d86e21"
+      },
+      {
+        "path": "usr/lib/x86_64-linux-ohos/libicu.so",
+        "size": 35528,
+        "sha256": "67f21ee3ac3f035d83ffccd7fe66200f76bb4c1a022e1cefeec69a60fb218cb3"
+      },
+      {
+        "path": "usr/include/unicode/ucal.h",
+        "size": 62926,
+        "sha256": "872305a5c1cce318780e07f29841b0e8dbaeb37c4802e85719551a92eb2fb5f2"
+      },
+      {
+        "path": "usr/include/unicode/uloc.h",
+        "size": 56986,
+        "sha256": "f317b1bc0ff44cd7924706296981276c1a41154dd70040e2060037602bff7413"
+      },
+      {
+        "path": "usr/include/unicode/utypes.h",
+        "size": 29638,
+        "sha256": "5ca8441d683f931f84f9beb3c2136e971e463297ca51d8e21812015a3f994663"
+      }
+    ]
+  },
+  "originalDevEco": {
+    "version": "26.0.0.105",
+    "input": "explicit native SDK sysroot path",
+    "automaticFallback": false
+  },
+  "compatibility": "Identical selected headers and exported symbols do not establish full ABI or runtime equivalence; libraries are external inputs only."
+}

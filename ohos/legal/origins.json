@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/kizitonwose/Calendar/2.10.1/LICENSE.md",
+    "httpStatus": 200,
+    "path": "legal/LICENSE.md",
+    "size": 1079,
+    "sha256": "942b3872c6621a2ff8a2730044ec02093d350aff5e5db13fe8811ca67aa0aae9"
+  },
+  {
+    "url": "https://repo.maven.apache.org/maven2/com/kizitonwose/calendar/compose-multiplatform/2.10.1/compose-multiplatform-2.10.1.module",
+    "httpStatus": 200,
+    "path": "vendor/compose-multiplatform-2.10.1.module",
+    "size": 20611,
+    "sha256": "c73a77ef414be3376ef62bbd4e8932cf80052546a6a6db93fdbf85b3e7e4a7b6"
+  },
+  {
+    "url": "https://repo.maven.apache.org/maven2/com/kizitonwose/calendar/compose-multiplatform/2.10.1/compose-multiplatform-2.10.1.pom",
+    "httpStatus": 200,
+    "path": "vendor/compose-multiplatform-2.10.1.pom",
+    "size": 3425,
+    "sha256": "c1ff6d74828dea3c85ce83523b53f323a55c9639eaaf36b21cb2af85f9ec4b37"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/kizitonwose/Calendar/2.10.1/compose-multiplatform/library/build.gradle.kts",
+    "httpStatus": 200,
+    "path": "vendor/upstream-build.gradle.kts",
+    "size": 3600,
+    "sha256": "697b0cdfea6252da098ebfd6f705f064214ffd8d28db7612dd99ef38c5b7fc59"
+  },
+  {
+    "url": "https://repo.maven.apache.org/maven2/com/kizitonwose/calendar/compose-multiplatform/2.10.1/compose-multiplatform-2.10.1-sources.jar",
+    "path": "vendor/compose-multiplatform-2.10.1-sources.jar",
+    "size": 56351,
+    "sha256": "e13bcd699c499d3a58bc21cb61bba35b159dcac00518fb8279d346793b10e84a"
+  }
+]
